@@ -1,6 +1,6 @@
-public class Jogador10 {
+public class jogador10 {
 
-    public Jogador10(int numero){
+    public jogador10(int numero){
         System.out.printf("O jogador número %d foi criado!%n", numero);
     }
 }

@@ -1,7 +1,7 @@
 public class cursojava09{
     public static void main(String[] args){
 
-        // String pra ser mostrada, e a quantidade de repetiçôes
+        // String pra ser mostrada, e a quantidade de repetições
         mostre("CFB Cursos", 3);
         mostre("Curso de Java", 2);
         mostre("Wagner Leandro", 1);
